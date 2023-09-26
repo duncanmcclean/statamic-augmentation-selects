@@ -1,0 +1,10 @@
+name: 'Duncan McClean'
+super: true
+id: fca42254-06b8-46c7-8203-512a7e8b3a69
+password_hash: $2y$10$FGIA2qgLfNHGupWZTNjcjezYo3mlh7T5WqvFfPBcuJOn5GRe5V4Lq
+preferences:
+  collections:
+    location:
+      after_save: continue_editing
+    locations:
+      after_save: create_another
